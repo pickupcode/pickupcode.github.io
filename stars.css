@@ -17,7 +17,7 @@
     height:16px;
     line-height:16px;
     padding:1px 22px 1px 0; /* 1px FireFox fix */
-    background:url(https://pickupcode.github.io/stars.png) no-repeat -22px 0;
+    background:url("https://pickupcode.github.io/stars.png") no-repeat -22px 0;
 }
  
 /* Change span immediately following the checked radio */
